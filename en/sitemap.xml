@@ -2,37 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/posts/whytimelesssong/</loc>
-    <lastmod>2024-04-28T02:07:47+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/projects/24_points/</loc>
+    <loc>https://xxmorwellr.github.io/en/projects/</loc>
     <lastmod>2024-04-29T17:07:47+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/projects/</loc>
+    <loc>https://xxmorwellr.github.io/en/</loc>
     <lastmod>2024-04-29T17:07:47+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-04-29T17:07:47+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/projects/city_marketing_dashboard/</loc>
-    <lastmod>2024-04-29T15:07:47+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/projects/bachelor_thesis/</loc>
-    <lastmod>2024-04-29T10:07:47+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/about/</loc>
-    <lastmod>2024-04-28T22:07:47+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
+    <loc>https://xxmorwellr.github.io/en/posts/</loc>
     <lastmod>2024-04-28T12:07:47+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/posts/whylanguage/</loc>
-    <lastmod>2024-04-28T12:07:47+02:00</lastmod>
+    <loc>https://xxmorwellr.github.io/en/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://xxmorwellr.github.io/en/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/series/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://xxmorwellr.github.io/en/tags/</loc>
   </url>
 </urlset>
