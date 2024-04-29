@@ -2,11 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>POSTS on Xiumei&#39;s Timeless Song</title>
-    <link>https://xxmorwellr.github.io/en/posts/</link>
+    <link>http://localhost:1313/en/posts/</link>
     <description>Recent content in POSTS on Xiumei&#39;s Timeless Song</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://xxmorwellr.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Apr 2024 12:07:47 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Timeless Song</title>
+      <link>http://localhost:1313/en/posts/whytimelesssong/</link>
+      <pubDate>Sun, 28 Apr 2024 02:07:47 +0200</pubDate>
+      <guid>http://localhost:1313/en/posts/whytimelesssong/</guid>
+      <description>This is my first post, and I am happy to start my blogging journey from here. During my bachelor&amp;rsquo;s study in Statistics, I begin to analyze data with renowned Iris dataset, which has plenty of features to be classified, summarized and visualized. As a polysemy, &amp;ldquo;iris&amp;rdquo; represents both iris flowers(&amp;ldquo;鸢尾&amp;rdq</description>
+    </item>
+    <item>
+      <title>Why Language Technology</title>
+      <link>http://localhost:1313/en/posts/whylanguage/</link>
+      <pubDate>Sun, 28 Apr 2024 12:07:47 +0200</pubDate>
+      <guid>http://localhost:1313/en/posts/whylanguage/</guid>
+      <description>As an enrolled postgraduate in Language Technology, I am really interested in so-called language. (Statistics can also be seen as a subject mainly composed of mathematical language and computer language.) Since I was young, I have had a unique talent that words can make me have &amp;ldquo;synaesthesia&amp;rdquo;: Each word conjures specific meanings and paints vivid images in my mind. To me, the world is a vast tapestry woven from words, grammar, sounds, and their endless combinations, each giving rise to different genres and expressions.</description>
+    </item>
   </channel>
 </rss>
