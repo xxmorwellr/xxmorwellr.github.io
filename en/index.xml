@@ -2,65 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Xiumei&#39;s Timeless Song</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://xxmorwellr.github.io/en/</link>
     <description>Recent content on Xiumei&#39;s Timeless Song</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2024 17:07:47 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Why Timeless Song</title>
-      <link>http://localhost:1313/en/posts/whytimelesssong/</link>
-      <pubDate>Sun, 28 Apr 2024 02:07:47 +0200</pubDate>
-      <guid>http://localhost:1313/en/posts/whytimelesssong/</guid>
-      <description>This is my first post, and I am happy to start my blogging journey from here. During my bachelor&amp;rsquo;s study in Statistics, I begin to analyze data with renowned Iris dataset, which has plenty of features to be classified, summarized and visualized. As a polysemy, &amp;ldquo;iris&amp;rdquo; represents both iris flowers(&amp;ldquo;鸢尾&amp;rdq</description>
-    </item>
-    <item>
-      <title>Classic Card Game with Dialogue-driven Interaction</title>
-      <link>http://localhost:1313/en/projects/24_points/</link>
-      <pubDate>Mon, 29 Apr 2024 17:07:47 +0200</pubDate>
-      <guid>http://localhost:1313/en/projects/24_points/</guid>
-      <description>Welcome to 24 POINTs!
-This is my final project for the master course Dialogue System 1, and It&amp;rsquo;s a card game with dialogue-driven interaction. Web Platform based
-Backend Technology
-Node.js (LTS version)
-Package Manager: Yarn
-Azure service for ASR&amp;amp;TTS&amp;amp;NLU
-Frontend Technologies
-JavaScript (Xstate, vue.js framework)
-azure.js – export relevant KEY
-dm.js – manage dialogue-driven interaction main.js – control the main logic and flow of the game HTML
-index.html – the main entry point of the application, containing the structure and layout of the web page</description>
-    </item>
-    <item>
-      <title>City Marketing Panel</title>
-      <link>http://localhost:1313/en/projects/city_marketing_panel/</link>
-      <pubDate>Mon, 29 Apr 2024 15:07:47 +0200</pubDate>
-      <guid>http://localhost:1313/en/projects/city_marketing_panel/</guid>
-      <description>This is my end-to-end developed data product during my first full-time job, aiming to guide toB &amp;amp; toC marketing for our novel new energy brand Weltmeister. It had been delivered successfully and worked well.
-1. Product Description Completed work:
-Construction of city ranking system, you can see the overall ranking: top10, top30, top50 Complete data aggregation and indicator system construction for 306 cities With the city panel display tool, you can observe the performance of each city on specific indicator factors and specific factor items, including: Overall auto market;</description>
-    </item>
-    <item>
-      <title>Text Mining and Social Network Analysis Based on Novel</title>
-      <link>http://localhost:1313/en/projects/bachelor_thesis/</link>
-      <pubDate>Mon, 29 Apr 2024 10:07:47 +0200</pubDate>
-      <guid>http://localhost:1313/en/projects/bachelor_thesis/</guid>
-      <description>Abstract The method of grass snake and gray line(&amp;ldquo;草蛇灰线法&amp;rdquo;) is a narrative technique originating from Chinese classical novels, which connects events, appearing successive characters, forming readers’expectation horizons, and</description>
-    </item>
-    <item>
-      <title>About Me👋</title>
-      <link>http://localhost:1313/en/about/</link>
-      <pubDate>Sun, 28 Apr 2024 22:07:47 +0200</pubDate>
-      <guid>http://localhost:1313/en/about/</guid>
-      <description>1 2 3 4 5 6 7 8 class Me: def __init__(self): self.name = &amp;#34;Xiumei Xue&amp;#34; self.born_year = 1998 self.pronouns = &amp;#34;She/Her&amp;#34; self.MBTI = &amp;#34;INFJ&amp;#34; self.hometown = &amp;#34;Yancheng, Jiangsu, CN&amp;#34; self.curr_location = &amp;#34;Gothenburg, Västra Götaland, SE&amp;#34; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 CREATE TABLE Skill ( -- omit Table Person sharing PRIMARY KEY (avoid duplicated info above) id INT PRIMARY KEY, -- MD5 encoded languages VARCHAR(255), frameworks VARCHAR(255), possessed_skills VARCHAR(255), developing_skills VARCHAR(255) ); INSERT INTO Skill (id, languages, frameworks, possessed_skills, developed_skills) VALUES (&amp;#39;4aa37d1f4838986bc259354709bf2f5a&amp;#39;, &amp;#39;R,SQL,Python,JavaScript&amp;#39;, &amp;#39;PyTorch,vue.</description>
-    </item>
-    <item>
-      <title>Why Language Technology</title>
-      <link>http://localhost:1313/en/posts/whylanguage/</link>
-      <pubDate>Sun, 28 Apr 2024 12:07:47 +0200</pubDate>
-      <guid>http://localhost:1313/en/posts/whylanguage/</guid>
-      <description>As an enrolled postgraduate in Language Technology, I am really interested in so-called language. (Statistics can also be seen as a subject mainly composed of mathematical language and computer language.) Since I was young, I have had a unique talent that words can make me have &amp;ldquo;synaesthesia&amp;rdquo;: Each word conjures specific meanings and paints vivid images in my mind. To me, the world is a vast tapestry woven from words, grammar, sounds, and their endless combinations, each giving rise to different genres and expressions.</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://xxmorwellr.github.io/en/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

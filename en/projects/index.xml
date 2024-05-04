@@ -2,44 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PROJECTS on Xiumei&#39;s Timeless Song</title>
-    <link>http://localhost:1313/en/projects/</link>
+    <link>https://xxmorwellr.github.io/en/projects/</link>
     <description>Recent content in PROJECTS on Xiumei&#39;s Timeless Song</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2024 17:07:47 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Classic Card Game with Dialogue-driven Interaction</title>
-      <link>http://localhost:1313/en/projects/24_points/</link>
-      <pubDate>Mon, 29 Apr 2024 17:07:47 +0200</pubDate>
-      <guid>http://localhost:1313/en/projects/24_points/</guid>
-      <description>Welcome to 24 POINTs!
-This is my final project for the master course Dialogue System 1, and It&amp;rsquo;s a card game with dialogue-driven interaction. Web Platform based
-Backend Technology
-Node.js (LTS version)
-Package Manager: Yarn
-Azure service for ASR&amp;amp;TTS&amp;amp;NLU
-Frontend Technologies
-JavaScript (Xstate, vue.js framework)
-azure.js – export relevant KEY
-dm.js – manage dialogue-driven interaction main.js – control the main logic and flow of the game HTML
-index.html – the main entry point of the application, containing the structure and layout of the web page</description>
-    </item>
-    <item>
-      <title>City Marketing Panel</title>
-      <link>http://localhost:1313/en/projects/city_marketing_panel/</link>
-      <pubDate>Mon, 29 Apr 2024 15:07:47 +0200</pubDate>
-      <guid>http://localhost:1313/en/projects/city_marketing_panel/</guid>
-      <description>This is my end-to-end developed data product during my first full-time job, aiming to guide toB &amp;amp; toC marketing for our novel new energy brand Weltmeister. It had been delivered successfully and worked well.
-1. Product Description Completed work:
-Construction of city ranking system, you can see the overall ranking: top10, top30, top50 Complete data aggregation and indicator system construction for 306 cities With the city panel display tool, you can observe the performance of each city on specific indicator factors and specific factor items, including: Overall auto market;</description>
-    </item>
-    <item>
-      <title>Text Mining and Social Network Analysis Based on Novel</title>
-      <link>http://localhost:1313/en/projects/bachelor_thesis/</link>
-      <pubDate>Mon, 29 Apr 2024 10:07:47 +0200</pubDate>
-      <guid>http://localhost:1313/en/projects/bachelor_thesis/</guid>
-      <description>Abstract The method of grass snake and gray line(&amp;ldquo;草蛇灰线法&amp;rdquo;) is a narrative technique originating from Chinese classical novels, which connects events, appearing successive characters, forming readers’expectation horizons, and</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://xxmorwellr.github.io/en/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
